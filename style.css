@@ -379,39 +379,3 @@ a{
 .ico:hover{
     transform: translateY(-5px);
 }
-
-/*-----------------order------------------------*/
-#order{
-    background: #efefef;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    color: #777;
-    text-decoration-color: #000 !important;
-}
-#order .im{
-    margin: 10px;
-    color: #007bff;
-    font-weight: bold;
-}
-.fa-dropbox, .fa-users {
-    height: 25px;
-    width: 25px;
-    background: #fff; 
-    color:#007bff!important;
-    padding: 4px;
-    border-radius: 50%;
-}
-#order .btn:hover{
-    transform: translateY(-5px);    
-}
-
-/*---------footer--------*/
-#footer{
-    background: #333;
-    color: #fff;
-    padding: 12px;
-}
-.fa-copyright{
-    margin: 3px;
-    color: #fff;
-}
